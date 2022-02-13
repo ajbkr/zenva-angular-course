@@ -1,0 +1,12 @@
+.image-title {
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
+}
+
+media (max-width: 1150px) {
+  .image-title {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+}
+
