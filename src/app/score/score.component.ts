@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
   ],
   templateUrl: './score.component.html'
 })
-export class ScoreComponent {}
+export class ScoreComponent {
+  score = 0;
+}
